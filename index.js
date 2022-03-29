@@ -15,3 +15,5 @@ $(".morty").click(function(){
       $(textClass).text("Hi I'm Pickle Rick!");
       $(textClass).css({ 'color': 'black', 'font-size': '100%' });
     });
+
+ 
