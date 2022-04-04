@@ -1,1 +1,10 @@
 body {background-color: white;}
+
+.buttons { 
+ display: inline;
+}
+
+#stopbutton{ 
+
+    color: red; 
+}
